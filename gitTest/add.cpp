@@ -10,4 +10,8 @@ add::add()
 void add::Ptest()
 {
     std::cout << "This is Ptest!" << std::endl;
+
+}
+void add::PrintT() {
+    std::cout << "This is PrintT!" << std::endl;
 }

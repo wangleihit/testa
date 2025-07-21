@@ -11,6 +11,7 @@ public:
     add();
 
     void Ptest();
+    void PrintT();
 
 };
 

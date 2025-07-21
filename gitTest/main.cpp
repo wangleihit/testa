@@ -1,8 +1,8 @@
 #include <iostream>
 #include "add.h"
 int main() {
-    add a;
-   // a.Ptest();
+    add b;
+    b.Ptest();
     std::cout << "This is branch2mergeMaster!" << std::endl;
     return 0;
 }
